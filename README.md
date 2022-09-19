@@ -1,3 +1,4 @@
 # Phone-Ring-Indicator
 
-![Waves](https://user-images.githubusercontent.com/26456500/191019468-e699ed45-eb64-4f53-9067-609e7acb3973.gif)
+
+![632864e785903401707172](https://user-images.githubusercontent.com/26456500/191021044-1649e26d-5f97-4bff-82cd-317dc3c0c437.gif)
